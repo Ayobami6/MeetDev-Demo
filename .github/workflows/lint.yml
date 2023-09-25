@@ -30,4 +30,11 @@ jobs:
         working-directory: client
         
       - name: Run ESLint server
-        uses: stefanoeb/eslint-action@1.0.2
+        working-directory: server
+        run: npm run lint
+
+       - name: Run ESLint client
+        working-directory: client
+        run: npm run lint
+        
+
