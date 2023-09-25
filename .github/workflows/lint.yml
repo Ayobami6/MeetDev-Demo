@@ -23,15 +23,11 @@ jobs:
       - name: Install dependencies for server
         run: npm install
         working-directory: server
-        
-      - name: Run ESLint server
-        working-directory: server
-        uses: stefanoeb/eslint-action@1.0.2
+
 
       - name: Install dependencies for client
         run: npm install
         working-directory: client
         
-      - name: Run ESLint for client
-        working-directory: client
+      - name: Run ESLint server
         uses: stefanoeb/eslint-action@1.0.2
