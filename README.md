@@ -10,9 +10,9 @@ We are a team of four: <br>
 
 | Name of Developer | Reach out | Role |
 |-------------------|-----------|------|
-| Joseph Ehighe | [Joseph Ehighe](https://github.com/jojothomas1515) | Backend, Frontend, Design and Project Managem |
-| Ayo Alaran | [Ayo Alaran](https://github.com/Ayobami6) | Backend, Frontend, DevOps, Project Management |
-| Babatunde Lawal | [Babatunde Lawal](https://github.com/Utilitycoder) | Frontend, Backend, Design |
+| Joseph Ehigie | [Joseph Ehigie](https://github.com/jojothomas1515) | Backend, Frontend, Design and Project Managem |
+| Ayobami Alaran | [Ayobami Alaran](https://github.com/Ayobami6) | Backend, Frontend, DevOps, Project Management |
+| Babatunde Lawal | [Lawal Babatunde](https://github.com/Utilitycoder) | Frontend, Backend, Design |
 | Betini Akarandut | [Betini Akarandut](https://github.com/betiniakarandut) | Backend, DevOps, & Project Management 
 
 
@@ -25,3 +25,10 @@ We are a team of four: <br>
 * GitHub Action for CI/CD <br> 
 * [Docker for containerization](https://www.docker.com/) <br> 
 * [GitHub Project for project Management](https://docs.github.com/en/issues/using-pull-requests/about-branches)
+
+## Authors
+* [Joseph Ehigie](https://github.com/jojothomas1515)
+* [Ayobami Alaran](https://github.com/Ayobami6)
+* [Lawal Babatunde](https://github.com/Utilitycoder)
+* [Betini Akarandut](https://github.com/betiniakarandut)
+
